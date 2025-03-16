@@ -18,3 +18,4 @@ This project implements a **real-time stock price streaming pipeline** using **K
 ✅ **Graceful Shutdown & Fault Tolerance:** Handles errors and auto-restarts in case of failures.  
 
 ## **📂 Project Structure**
+![Untitled Diagram1 drawio](https://github.com/user-attachments/assets/0da55a59-1d1e-4888-a26c-56c7a8c19da1)
