@@ -25,9 +25,9 @@ FETCH_INTERVAL = 60  # Seconds between data fetches (be mindful of API rate limi
 CONSUMER_INTERVAL = 5  # Seconds between consumer poll operations
 
 # Snowflake connection details
-SNOWFLAKE_USER = "Rukudeva"
-SNOWFLAKE_PASSWORD = "Harrypotter@12"
-SNOWFLAKE_ACCOUNT = "UJJESBQ-UFB16712"
+SNOWFLAKE_USER = "*******"
+SNOWFLAKE_PASSWORD = "******"
+SNOWFLAKE_ACCOUNT = "******"
 SNOWFLAKE_DATABASE = "STOCK_STREAM"
 SNOWFLAKE_SCHEMA = "APPLE_TEST"
 SNOWFLAKE_TABLE = "STOCK_PRICES"  # Changed to a more generic table name
