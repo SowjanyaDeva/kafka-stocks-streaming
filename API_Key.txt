@@ -1,4 +1,4 @@
-Welcome to Alpha Vantage! Your API key is: D2IQ7X0XWT7YE8RM. Please record this API key at a safe place for future data access.
+Welcome to Alpha Vantage! Your API key is: **********. Please record this API key at a safe place for future data access.
 
 
 REference website: https://www.alphavantage.co/support/#api-key
